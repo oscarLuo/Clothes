@@ -1,4 +1,4 @@
-package com.oscar.luo.clothes.clothes;
+package com.oscar.luo.clothes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
